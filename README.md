@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 ![From](https://img.shields.io/badge/From-Vinh-informational) 
 ![School](https://img.shields.io/badge/School-National%20Economics%20University-informational) 
 
-### Currently Learning 👩📝
-- Data Preparation and Visualization  
-- Machine Learning 
+### Currently Learning 👩📝  
+- Deep Learning
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white" alt="Google Colab" /> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt="Overleaf" /> 
 
